@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">novo projeto</string>
+    <string name="introduced_text"> Adiciona 2 caracteres hexadecimais entre 0-9, A-F ou a-f sem o "'#'" para cada campo.</string>
+    <string name="red_channel">Canal vermelho</string>
+    <string name="green_channel">Canal verde</string>
+    <string name="blue_channel">Canal azul</string>
+</resources>
