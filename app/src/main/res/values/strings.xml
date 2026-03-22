@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="header_text">Digite seu nome completo:</string>
+    <string name="welcome_text">Bem-vindo(a), %1$s!</string>
+    <string name="full_name_label">Nome Completo</string>
+    <string name="submit_button_text">Enviar</string>
+</resources>
